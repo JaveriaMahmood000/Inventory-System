@@ -28,5 +28,5 @@ The project runs in the console and stores data in a JSON file so that the infor
 - Basic OS module  
 
 
-## Project Structure
+
 
